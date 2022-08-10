@@ -1,5 +1,4 @@
 import './App.css';
-import { Background } from './components/background.jsx'
 import logo from './components/image.png'
 import background from './components/Rectangle.png'
 import cat from './components/cat.png'
